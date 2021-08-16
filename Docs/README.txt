@@ -35,3 +35,5 @@ You'll end up with a directory Docs/html containing the HTML docs and a
 directory Docs/man containing the man pages.
 
 Look in Makefile.am for additional directives.
+
+Abdoul Aziz BA
